@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(27, 52, 52);
+    margin: 12%;
+
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+
+ h1 .head2 {
+    color: darkgreen;
+    padding-bottom: 7px;
+    border-bottom: 5px solid darkgreen;
+    margin-top: 0px;
+   
+}
+
+#display {
+    margin-top: 5px;
+    font-size: 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: 0;
+    outline: 0;
+}
+
+.display {
+    height: 50px;
+    width: 400px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10px;
+    border-radius: 5px;
+
+}
+.img {
+    height: 30px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.btn{
+    background-color: rgb(9, 164, 164);
+    font-size: 25px;
+    /* width: 170px; */
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.container .btn img {
+    height: 20px;
+    width: 10px;
+}
